@@ -1,1 +1,6 @@
 # inheritance-umat-management-system
+BOATENG BRUHAAN\
+FOE.21.006.018.24
+PARENT CLASS
+CHILDREN CLASS
+OVERIDING.....ETC
